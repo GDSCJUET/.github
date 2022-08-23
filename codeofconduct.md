@@ -8,6 +8,7 @@ The community brings together a diversity of members and being respectful to eve
 - Religion.
 - Caste.
 - Gender and/or sexual orientation.
+- Financial conditions.
 - Linguistic needs.
 - The University Year (fresher, sophomore, junior, senior, graduated).
 
@@ -19,6 +20,7 @@ All the points stated in the code of conduct are based on a single fundamental r
 - Understand what others would want to be referred to in conversations and be considerate. It may be anything from pronouns to nicknames to phrases/words in their local languages that they would like to be referred to as.
 - Apologize whenever you are at fault or whenever you find yourself to have come off as rude. The impact might not match your intent, but apologizing will enhance and nourish mutual understanding.
 - Avoid using any harsh language that may cause sensitive members to feel uncomfortable.
+- Promoting piracy or unethical practices to gain access to tools or content.
 - Reach out to members who might find it hard to work their way out in an activity and help them out whenever you can.
 - If anybody is unable to comprehend the language being used by most members, try to use a language everyone is comfortable with and ensure communicating the messages to them in their first or second language.
 
