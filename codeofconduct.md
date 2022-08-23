@@ -12,7 +12,7 @@ The community brings together a diversity of members and being respectful to eve
 - Linguistic needs.
 - The University Year (fresher, sophomore, junior, senior, graduated).
 
-The community members may respectfully refer to each-other on a first name basis or their own linguistic variant of *bhaiya* or *didi*, whichever they find comfortable. **No member, senior or junior, should be reffered to as Sir/Ma'am.**
+The community members may respectfully refer to each-other on a first name basis or their own linguistic variant of *bhaiya* or *didi*, whichever they find comfortable. **No member, senior or junior, should be referred to as Sir/Ma'am.**
 
 ## Be Kind
 All the points stated in the code of conduct are based on a single fundamental rule of thumb: Being kind to others. As a member of the community, you are encouraged to follow etiquette that ensures kindness among the members of the community, such as:
@@ -25,7 +25,7 @@ All the points stated in the code of conduct are based on a single fundamental r
 - If anybody is unable to comprehend the language being used by most members, try to use a language everyone is comfortable with and ensure communicating the messages to them in their first or second language.
 
 ## Unacceptable Behaviour
-The following behaviour is unacceptable in the community and shall not be tolerated by any of the members in the community. This includes :
+The following behaviour is unacceptable in the community and shall not be tolerated by any of the members in the community. This includes:
 - Cursing/Swearing at other community members.
 - Using euphemism or abusive language pertaining to any of the criteria mentioned under the [mutual respect](#mutual-respect) header.
 - Abusing one's position to engage in unethical practices.
@@ -35,7 +35,7 @@ The following behaviour is unacceptable in the community and shall not be tolera
 
 ## Reporting
 Any event pertaining to violation or potential violation of the code of conduct or any amendments thereof can be reported in any of the following ways:
-- Reporting in-person to any of the core team members(preferrably the Lead).
+- Reporting in-person to any of the core team members (preferrably the Lead).
 - Texting/E-Mailing any of our core team members on WhatsApp, Telegram, Instagram, Linkedin or Discord.
 - If the above options fail to resolve the violation, report to the University Discipline Committee.
 
